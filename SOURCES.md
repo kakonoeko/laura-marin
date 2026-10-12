@@ -27,7 +27,7 @@ Consulta: 12 de octubre de 2026. Se limita a la actividad musical y a los canale
 
 ## Fotografías
 
-Se usan enlaces externos originales, no imágenes generadas de la artista. Cada fotografía lleva crédito del medio en la web.
+Se utilizan fotografías reales de la artista. La portada y el retrato se alojan en assets/ para evitar bloqueos de carga externa; se conserva su procedencia a continuación. Cada fotografía lleva crédito del medio en la web.
 
 - Foto promocional de «Brza kola», crédito Promo / Radio Sarajevo: https://storage.radiosarajevo.ba/article/634870/871x540/laura-marin-april-2026-1-1.jpg?v1777040011
 - Actuación de Sanski Most / Inmedia: https://inmedia.ba/wp-content/uploads/2026/09/822292319_2553829038469226_5605253306490447288_n-e1790413651837.jpeg
